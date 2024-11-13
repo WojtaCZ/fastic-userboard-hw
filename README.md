@@ -1,23 +1,9 @@
-<style>
-	.img-centered {
-		margin: auto; display: block;
-	}
-
-    .div-centered {
-        width: fit-content;
-        margin: auto;
-        display: block;
-    }
-
-</style>
-
-
 # FastIC+ readout userboard
 This repository contains the project files and manufacturing outputs for the FastIC+ readout userboard. The board can either be used with the [FastIC+ readout](https://github.com/WojtaCZ/fastic-readout-hw) as is or used as a template for development of a custom userboard compatible with the FastIC+ readout. 
 
-<div class="div-centered">
+<div align="center">
   <img src="outputs/images/3d-top.png" width="49%" />
-  <img src="outputs/images/3d-bottom.png" width="49%"/> 
+  <img src="outputs/images/3d-bottom.png" width="49%" /> 
 </div>
 
 ## Interface connector
@@ -29,14 +15,14 @@ High voltage for biasing of the sensors is provided by the readout system on pin
 
 The pins *INx_FASTICy* are input pins routed to the FastIC+ input channels. The channels on the readout board are length matched to provide consistent propagation delay for all channels.
 
-<div class="div-centered">
-  <img src="outputs/images/connector-pinout.png" width="50%" class="img-centered"/>
+<div align="center">
+  <img src="outputs/images/connector-pinout.png" width="50%" />
 </div>
 
 ## Specifications
 The following table summarises the electrical specifications of the readout and userboard. These specifications need to be met in order to guarantee propper functionality.
 
-<div class="div-centered">
+<div align="center">
 
 |                                        |   Min   |   Typ   |   Max   |   Unit   |
 | -------------------------------------- | :-----: | :-----: | :-----: | :------: | 
@@ -55,10 +41,12 @@ The following table summarises the electrical specifications of the readout and 
 </div>
 
 ## List of compatible EEPROMs
-<div class="div-centered">
+
+<div align="center">
 
 |              Manufacturer              |           Family          |          Example          |
 | -------------------------------------- | :-----------------------: | :-----------------------: |
 | Mircochip                              | 24AA series               | 24AA04T-I/OT              |
+
 
 </div>

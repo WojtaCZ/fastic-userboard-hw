@@ -1,10 +1,10 @@
 # FastIC+ readout userboard
 This repository contains the project files and manufacturing outputs for the FastIC+ readout userboard. The board can either be used with the [FastIC+ readout](https://github.com/WojtaCZ/fastic-readout-hw) as is or used as a template for development of a custom userboard compatible with the FastIC+ readout. 
 
-<p align="center">
+<div style="width: fit-content; margin: auto; display: block;">
   <img src="outputs/images/3d-top.png" width="49%" />
-  <img src="outputs/images/3d-bottom.png" width="49%" /> 
-</p>
+  <img src="outputs/images/3d-bottom.png" width="49%"/> 
+</div>
 
 ## Interface connector
 The [ERF8-020-09.0-L-DV-K-TR](https://www.samtec.com/products/erf8-020-09.0-l-dv-k-tr) is used for interfacing with the readout system. The readout system provides a 3.3 V supply to the userboard on pins *40* and *39*. Decoupling capacitors should be added on these pins.
@@ -15,14 +15,14 @@ High voltage for biasing of the sensors is provided by the readout system on pin
 
 The pins *INx_FASTICy* are input pins routed to the FastIC+ input channels. The channels on the readout board are length matched to provide consistent propagation delay for all channels.
 
-<p align="center">
-  <img src="outputs/images/connector-pinout.png" width="50%" />
-</p>
+<div>
+  <img src="outputs/images/connector-pinout.png" width="50%" style="margin: auto; display: block;"/>
+</div>
 
 ## Specifications
 The following table summarises the electrical specifications of the readout and userboard. These specifications need to be met in order to guarantee propper functionality.
 
-<div align="center">
+<div style="width: fit-content; margin: auto; display: block;">
 
 |                                        |   Min   |   Typ   |   Max   |   Unit   |
 | -------------------------------------- | :-----: | :-----: | :-----: | :------: | 
@@ -41,12 +41,10 @@ The following table summarises the electrical specifications of the readout and 
 </div>
 
 ## List of compatible EEPROMs
-
-<div align="center">
+<div style="width: fit-content; margin: auto; display: block;">
 
 |              Manufacturer              |           Family          |          Example          |
 | -------------------------------------- | :-----------------------: | :-----------------------: |
 | Mircochip                              | 24AA series               | 24AA04T-I/OT              |
-
 
 </div>

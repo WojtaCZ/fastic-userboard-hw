@@ -34,9 +34,9 @@ The following table summarises the electrical specifications of the readout and 
 | INx_FASTICy propagation delay[^1][^2]  | 200     | 230     |  260    | ps       |
 
 [^1]:
-    The delay specified is the sum of the PCB delay (120 ps) and the connector stack (mated connectors) propagation delay (110ps). The delay of the FastIC+ package is not taken into account. 
+    The delay specified is the sum of the readout PCB propagationdelay (120 ps) and the connector stack (mated connectors) propagation delay (110ps). The propagation delay of the FastIC+ package and the userboard PCB propagation delay is not taken into account. 
 [^2]:
-    The channels in the provided userboard example are length matched to (142 ps) this the total propagation delay from the sensor to the FastIC+ package pin is the sum of the userboard delay (142 ps) and the propagation delay (230 ps), thus *t<sub>pd</sub> = 372 ± 30 ps*. The propagation delay of the sensor and the FastIC+ package is not taken into account.
+    The channels in the provided userboard example are length matched to (142 ps) this the total propagation delay from the sensor to the FastIC+ package pin is the sum of the userboard delay (142 ps) and the propagation delay (230 ps), thus *t<sub>pd</sub> = 372 ± 30 ps*. The propagation delay of the FastIC+ package and the sensor propagation delay is not taken into account.
 
 </div>
 

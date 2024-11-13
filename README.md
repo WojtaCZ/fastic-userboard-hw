@@ -2,8 +2,9 @@
 This repository contains the project files and manufacturing outputs for the FastIC+ readout userboard. The board can either be used with the [FastIC+ readout](https://github.com/WojtaCZ/fastic-readout-hw) as is or used as a template for development of a custom userboard compatible with the FastIC+ readout. 
 
 <div align="center">
-  <img src="outputs/images/3d-top.png" width="49%" />
-  <img src="outputs/images/3d-bottom.png" width="49%" /> 
+  <img src="outputs/images/3d-top.png" width="45%" />
+  <img width="8%"> </img>
+  <img src="outputs/images/3d-bottom.png" width="45%" /> 
 </div>
 
 ## Interface connector

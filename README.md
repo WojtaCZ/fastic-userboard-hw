@@ -7,6 +7,9 @@ This repository contains the project files and manufacturing outputs for the Fas
   <img src="outputs/images/3d-bottom.png" width="45%" /> 
 </div>
 
+## Output files
+Schematic, BOM and 3D renders are available in the outputs folder aswell as the gerbers and pick and place files needed for assembly. Gerbers and P&P files for both a single board and a 2x2 panel are provided.
+
 ## Interface connector
 The [ERF8-020-09.0-L-DV-K-TR](https://www.samtec.com/products/erf8-020-09.0-l-dv-k-tr) is used for interfacing with the readout system. The readout system provides a 3.3 V supply to the userboard on pins *40* and *39*. Decoupling capacitors should be added on these pins.
 

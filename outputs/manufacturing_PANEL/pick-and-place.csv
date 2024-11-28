@@ -1,0 +1,545 @@
+Altium Designer Pick and Place Locations,,,,,,,
+C:\Users\vvosahlo\cernbox\Documents\altium\fastic-userboard-hw\Project Outputs for fastic-userboard\Pick Place for fastic-userboard_PANEL.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       28/11/24,,,,,,,
+Time:       10:59,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+FTG6,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,65,15,90,Fiducial Target
+R20,10k,Bottom,RESC1005X40N,18.78,41.42,90,Resistor - 1%
+R19,10k,Bottom,RESC1005X40N,18.78,38.58,270,Resistor - 1%
+R18,10k,Bottom,RESC1005X40N,20.7,41.42,90,Resistor - 1%
+R17,10k,Bottom,RESC1005X40N,20.7,38.58,270,Resistor - 1%
+FTG3,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,15,15,90,Fiducial Target
+FTG2,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,15,65,90,Fiducial Target
+J1,ERF8-020-09.0-L-DV-K-TR,Bottom,SAMTEC_ERF8-020-09.0-L-DV-K-TR,40,40,0,
+IC2,24AA04T-I/OT,Bottom,SOT95P280X145-5N,23.8,40,0,"1.7V-5.5V, 16K I2C Serial EEPROM"
+C69,100nF,Bottom,CAPC1608X90N,26.6,40,90,Non-polarised capacitor
+C52,100nF,Bottom,CAPC1608X90N,46.45,36.1,0,Non-polarised capacitor
+C51,100nF,Bottom,CAPC1608X90N,46.45,43.9,0,Non-polarised capacitor
+C34,2.2uF,Bottom,CAPC1608X90N,30,44.6,90,Non-polarised capacitor
+C33,2.2uF,Bottom,CAPC1608X90N,30,35.4,270,Non-polarised capacitor
+FTG6,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,65,85,90,Fiducial Target
+R20,10k,Bottom,RESC1005X40N,18.78,111.42,90,Resistor - 1%
+R19,10k,Bottom,RESC1005X40N,18.78,108.58,270,Resistor - 1%
+R18,10k,Bottom,RESC1005X40N,20.7,111.42,90,Resistor - 1%
+R17,10k,Bottom,RESC1005X40N,20.7,108.58,270,Resistor - 1%
+FTG3,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,15,85,90,Fiducial Target
+FTG2,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,15,135,90,Fiducial Target
+J1,ERF8-020-09.0-L-DV-K-TR,Bottom,SAMTEC_ERF8-020-09.0-L-DV-K-TR,40,110,0,
+IC2,24AA04T-I/OT,Bottom,SOT95P280X145-5N,23.8,110,0,"1.7V-5.5V, 16K I2C Serial EEPROM"
+C69,100nF,Bottom,CAPC1608X90N,26.6,110,90,Non-polarised capacitor
+C52,100nF,Bottom,CAPC1608X90N,46.45,106.1,0,Non-polarised capacitor
+C51,100nF,Bottom,CAPC1608X90N,46.45,113.9,0,Non-polarised capacitor
+C34,2.2uF,Bottom,CAPC1608X90N,30,114.6,90,Non-polarised capacitor
+C33,2.2uF,Bottom,CAPC1608X90N,30,105.4,270,Non-polarised capacitor
+FTG6,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,135,15,90,Fiducial Target
+R20,10k,Bottom,RESC1005X40N,88.78,41.42,90,Resistor - 1%
+R19,10k,Bottom,RESC1005X40N,88.78,38.58,270,Resistor - 1%
+R18,10k,Bottom,RESC1005X40N,90.7,41.42,90,Resistor - 1%
+R17,10k,Bottom,RESC1005X40N,90.7,38.58,270,Resistor - 1%
+FTG3,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,85,15,90,Fiducial Target
+FTG2,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,85,65,90,Fiducial Target
+J1,ERF8-020-09.0-L-DV-K-TR,Bottom,SAMTEC_ERF8-020-09.0-L-DV-K-TR,110,40,0,
+IC2,24AA04T-I/OT,Bottom,SOT95P280X145-5N,93.8,40,0,"1.7V-5.5V, 16K I2C Serial EEPROM"
+C69,100nF,Bottom,CAPC1608X90N,96.6,40,90,Non-polarised capacitor
+C52,100nF,Bottom,CAPC1608X90N,116.45,36.1,0,Non-polarised capacitor
+C51,100nF,Bottom,CAPC1608X90N,116.45,43.9,0,Non-polarised capacitor
+C34,2.2uF,Bottom,CAPC1608X90N,100,44.6,90,Non-polarised capacitor
+C33,2.2uF,Bottom,CAPC1608X90N,100,35.4,270,Non-polarised capacitor
+FTG6,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,135,85,90,Fiducial Target
+R20,10k,Bottom,RESC1005X40N,88.78,111.42,90,Resistor - 1%
+R19,10k,Bottom,RESC1005X40N,88.78,108.58,270,Resistor - 1%
+R18,10k,Bottom,RESC1005X40N,90.7,111.42,90,Resistor - 1%
+R17,10k,Bottom,RESC1005X40N,90.7,108.58,270,Resistor - 1%
+FTG3,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,85,85,90,Fiducial Target
+FTG2,Use only in PCB,Bottom,FIDUCIAL_TOP_C100-200,85,135,90,Fiducial Target
+J1,ERF8-020-09.0-L-DV-K-TR,Bottom,SAMTEC_ERF8-020-09.0-L-DV-K-TR,110,110,0,
+IC2,24AA04T-I/OT,Bottom,SOT95P280X145-5N,93.8,110,0,"1.7V-5.5V, 16K I2C Serial EEPROM"
+C69,100nF,Bottom,CAPC1608X90N,96.6,110,90,Non-polarised capacitor
+C52,100nF,Bottom,CAPC1608X90N,116.45,106.1,0,Non-polarised capacitor
+C51,100nF,Bottom,CAPC1608X90N,116.45,113.9,0,Non-polarised capacitor
+C34,2.2uF,Bottom,CAPC1608X90N,100,114.6,90,Non-polarised capacitor
+C33,2.2uF,Bottom,CAPC1608X90N,100,105.4,270,Non-polarised capacitor
+FTG5,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,15,15,90,Fiducial Target
+C54,100nF,Top,CAPC1608X90N,49.1,54.6,90,Non-polarised capacitor
+C53,100nF,Top,CAPC1608X90N,49.1,57.9,270,Non-polarised capacitor
+H4,Plated Hole,Top,MTG240_400,67.5,12.5,0,Single Terminal Socket
+H3,Plated Hole,Top,MTG240_400,12.5,12.5,0,Single Terminal Socket
+H2,Plated Hole,Top,MTG240_400,12.5,67.5,0,Single Terminal Socket
+H1,Plated Hole,Top,MTG240_400,67.5,67.5,0,Single Terminal Socket
+R36,49R9,Top,RESC1608X55N,29.1,32.1,270,Resistor - 1%
+R35,49R9,Top,RESC1608X55N,29.1,35.4,270,Resistor - 1%
+R34,49R9,Top,RESC1608X55N,50.9,47.9,90,Resistor - 1%
+R33,49R9,Top,RESC1608X55N,50.9,44.6,90,Resistor - 1%
+R32,49R9,Top,RESC1608X55N,29.1,22.1,270,Resistor - 1%
+R31,49R9,Top,RESC1608X55N,29.1,25.4,270,Resistor - 1%
+R30,49R9,Top,RESC1608X55N,50.9,57.9,90,Resistor - 1%
+R29,49R9,Top,RESC1608X55N,50.9,54.6,90,Resistor - 1%
+R28,49R9,Top,RESC1608X55N,39.1,32.1,270,Resistor - 1%
+R27,49R9,Top,RESC1608X55N,39.1,35.4,270,Resistor - 1%
+R26,49R9,Top,RESC1608X55N,40.9,47.9,90,Resistor - 1%
+R25,49R9,Top,RESC1608X55N,40.9,44.6,90,Resistor - 1%
+R24,49R9,Top,RESC1608X55N,39.1,22.1,270,Resistor - 1%
+R23,49R9,Top,RESC1608X55N,39.1,25.4,270,Resistor - 1%
+R22,49R9,Top,RESC1608X55N,40.9,57.9,90,Resistor - 1%
+R21,49R9,Top,RESC1608X55N,40.9,54.6,90,Resistor - 1%
+R16,49R9,Top,RESC1608X55N,49.1,22.1,270,Resistor - 1%
+R15,49R9,Top,RESC1608X55N,49.1,25.4,270,Resistor - 1%
+R14,49R9,Top,RESC1608X55N,30.9,57.9,90,Resistor - 1%
+R13,49R9,Top,RESC1608X55N,30.9,54.6,90,Resistor - 1%
+R12,49R9,Top,RESC1608X55N,49.1,32.1,270,Resistor - 1%
+R11,49R9,Top,RESC1608X55N,49.1,35.4,270,Resistor - 1%
+R10,49R9,Top,RESC1608X55N,30.9,47.9,90,Resistor - 1%
+R9,49R9,Top,RESC1608X55N,30.9,44.6,90,Resistor - 1%
+R8,49R9,Top,RESC1608X55N,59.1,22.1,270,Resistor - 1%
+R7,49R9,Top,RESC1608X55N,59.1,25.4,270,Resistor - 1%
+R6,49R9,Top,RESC1608X55N,20.9,57.9,90,Resistor - 1%
+R5,49R9,Top,RESC1608X55N,20.9,54.6,90,Resistor - 1%
+R4,49R9,Top,RESC1608X55N,59.1,32.1,270,Resistor - 1%
+R3,49R9,Top,RESC1608X55N,59.1,35.4,270,Resistor - 1%
+R2,49R9,Top,RESC1608X55N,20.9,47.9,90,Resistor - 1%
+R1,49R9,Top,RESC1608X55N,20.9,44.6,90,Resistor - 1%
+IC17,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,25,33,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC16,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,55,47.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC15,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,25,22.9999,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC14,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,55,57.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC13,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,35,33,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC12,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,45,47.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC11,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,35,22.9999,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC10,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,45,57.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC9,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,45,22.9999,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC8,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,35,57.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC7,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,45,33,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC6,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,35,47.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC5,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,55,22.9999,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC4,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,25,57.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC3,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,55,33,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC1,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,25,47.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+FTG4,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,65,15,90,Fiducial Target
+FTG1,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,15,65,90,Fiducial Target
+C68,100nF,Top,CAPC1608X90N,30.9,28.8,90,Non-polarised capacitor
+C67,100nF,Top,CAPC1608X90N,29.1,28.8,90,Non-polarised capacitor
+C66,100nF,Top,CAPC1608X90N,30.9,35.4,270,Non-polarised capacitor
+C65,100nF,Top,CAPC1608X90N,30.9,32.1,90,Non-polarised capacitor
+C64,100nF,Top,CAPC1608X90N,49.1,51.2,270,Non-polarised capacitor
+C63,100nF,Top,CAPC1608X90N,50.9,51.2,270,Non-polarised capacitor
+C62,100nF,Top,CAPC1608X90N,49.1,47.9,270,Non-polarised capacitor
+C61,100nF,Top,CAPC1608X90N,49.1,44.6,90,Non-polarised capacitor
+C60,100nF,Top,CAPC1608X90N,30.9,18.8,90,Non-polarised capacitor
+C59,100nF,Top,CAPC1608X90N,29.1,18.8,90,Non-polarised capacitor
+C58,100nF,Top,CAPC1608X90N,30.9,25.4,270,Non-polarised capacitor
+C57,100nF,Top,CAPC1608X90N,30.9,22.1,90,Non-polarised capacitor
+C56,100nF,Top,CAPC1608X90N,50.9,61.2,270,Non-polarised capacitor
+C55,100nF,Top,CAPC1608X90N,49.1,61.2,270,Non-polarised capacitor
+C50,100nF,Top,CAPC1608X90N,39.1,28.8,90,Non-polarised capacitor
+C49,100nF,Top,CAPC1608X90N,40.9,28.8,90,Non-polarised capacitor
+C48,100nF,Top,CAPC1608X90N,40.9,35.4,270,Non-polarised capacitor
+C47,100nF,Top,CAPC1608X90N,40.9,32.1,90,Non-polarised capacitor
+C46,100nF,Top,CAPC1608X90N,39.1,51.2,270,Non-polarised capacitor
+C45,100nF,Top,CAPC1608X90N,40.9,51.2,270,Non-polarised capacitor
+C44,100nF,Top,CAPC1608X90N,39.1,47.9,270,Non-polarised capacitor
+C43,100nF,Top,CAPC1608X90N,39.1,44.6,90,Non-polarised capacitor
+C42,100nF,Top,CAPC1608X90N,39.1,18.8,90,Non-polarised capacitor
+C41,100nF,Top,CAPC1608X90N,40.9,18.8,90,Non-polarised capacitor
+C40,100nF,Top,CAPC1608X90N,40.9,25.4,270,Non-polarised capacitor
+C39,100nF,Top,CAPC1608X90N,40.9,22.1,90,Non-polarised capacitor
+C38,100nF,Top,CAPC1608X90N,39.1,61.2,270,Non-polarised capacitor
+C37,100nF,Top,CAPC1608X90N,40.9,61.2,270,Non-polarised capacitor
+C36,100nF,Top,CAPC1608X90N,39.1,57.9,270,Non-polarised capacitor
+C35,100nF,Top,CAPC1608X90N,39.1,54.6,90,Non-polarised capacitor
+C32,100nF,Top,CAPC1608X90N,50.9,18.8,90,Non-polarised capacitor
+C31,100nF,Top,CAPC1608X90N,49.1,18.8,90,Non-polarised capacitor
+C30,100nF,Top,CAPC1608X90N,50.9,22.1,90,Non-polarised capacitor
+C29,100nF,Top,CAPC1608X90N,50.9,25.4,270,Non-polarised capacitor
+C28,100nF,Top,CAPC1608X90N,29.1,61.2,270,Non-polarised capacitor
+C27,100nF,Top,CAPC1608X90N,30.9,61.2,270,Non-polarised capacitor
+C26,100nF,Top,CAPC1608X90N,29.1,57.9,270,Non-polarised capacitor
+C25,100nF,Top,CAPC1608X90N,29.1,54.6,90,Non-polarised capacitor
+C24,100nF,Top,CAPC1608X90N,49.1,28.8,90,Non-polarised capacitor
+C23,100nF,Top,CAPC1608X90N,50.9,28.8,90,Non-polarised capacitor
+C22,100nF,Top,CAPC1608X90N,50.9,35.4,270,Non-polarised capacitor
+C21,100nF,Top,CAPC1608X90N,50.9,32.1,90,Non-polarised capacitor
+C20,100nF,Top,CAPC1608X90N,30.9,51.2,270,Non-polarised capacitor
+C19,100nF,Top,CAPC1608X90N,29.1,51.2,270,Non-polarised capacitor
+C18,100nF,Top,CAPC1608X90N,29.1,47.9,270,Non-polarised capacitor
+C17,100nF,Top,CAPC1608X90N,29.1,44.6,90,Non-polarised capacitor
+C16,100nF,Top,CAPC1608X90N,59.1,18.8,90,Non-polarised capacitor
+C15,100nF,Top,CAPC1608X90N,60.9,18.8,90,Non-polarised capacitor
+C14,100nF,Top,CAPC1608X90N,60.9,25.4,270,Non-polarised capacitor
+C13,100nF,Top,CAPC1608X90N,60.9,22.1,90,Non-polarised capacitor
+C12,100nF,Top,CAPC1608X90N,19.1,61.2,270,Non-polarised capacitor
+C11,100nF,Top,CAPC1608X90N,20.9,61.2,270,Non-polarised capacitor
+C10,100nF,Top,CAPC1608X90N,19.1,57.9,270,Non-polarised capacitor
+C9,100nF,Top,CAPC1608X90N,19.1,54.6,90,Non-polarised capacitor
+C8,100nF,Top,CAPC1608X90N,59.1,28.8,90,Non-polarised capacitor
+C7,100nF,Top,CAPC1608X90N,60.9,28.8,90,Non-polarised capacitor
+C6,100nF,Top,CAPC1608X90N,60.9,32.1,90,Non-polarised capacitor
+C5,100nF,Top,CAPC1608X90N,60.9,35.4,270,Non-polarised capacitor
+C4,100nF,Top,CAPC1608X90N,19.1,51.2,270,Non-polarised capacitor
+C3,100nF,Top,CAPC1608X90N,20.9,51.2,270,Non-polarised capacitor
+C2,100nF,Top,CAPC1608X90N,19.1,47.9,270,Non-polarised capacitor
+C1,100nF,Top,CAPC1608X90N,19.1,44.6,90,Non-polarised capacitor
+FTG5,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,15,85,90,Fiducial Target
+C54,100nF,Top,CAPC1608X90N,49.1,124.6,90,Non-polarised capacitor
+C53,100nF,Top,CAPC1608X90N,49.1,127.9,270,Non-polarised capacitor
+H4,Plated Hole,Top,MTG240_400,67.5,82.5,0,Single Terminal Socket
+H3,Plated Hole,Top,MTG240_400,12.5,82.5,0,Single Terminal Socket
+H2,Plated Hole,Top,MTG240_400,12.5,137.5,0,Single Terminal Socket
+H1,Plated Hole,Top,MTG240_400,67.5,137.5,0,Single Terminal Socket
+R36,49R9,Top,RESC1608X55N,29.1,102.1,270,Resistor - 1%
+R35,49R9,Top,RESC1608X55N,29.1,105.4,270,Resistor - 1%
+R34,49R9,Top,RESC1608X55N,50.9,117.9,90,Resistor - 1%
+R33,49R9,Top,RESC1608X55N,50.9,114.6,90,Resistor - 1%
+R32,49R9,Top,RESC1608X55N,29.1,92.1,270,Resistor - 1%
+R31,49R9,Top,RESC1608X55N,29.1,95.4,270,Resistor - 1%
+R30,49R9,Top,RESC1608X55N,50.9,127.9,90,Resistor - 1%
+R29,49R9,Top,RESC1608X55N,50.9,124.6,90,Resistor - 1%
+R28,49R9,Top,RESC1608X55N,39.1,102.1,270,Resistor - 1%
+R27,49R9,Top,RESC1608X55N,39.1,105.4,270,Resistor - 1%
+R26,49R9,Top,RESC1608X55N,40.9,117.9,90,Resistor - 1%
+R25,49R9,Top,RESC1608X55N,40.9,114.6,90,Resistor - 1%
+R24,49R9,Top,RESC1608X55N,39.1,92.1,270,Resistor - 1%
+R23,49R9,Top,RESC1608X55N,39.1,95.4,270,Resistor - 1%
+R22,49R9,Top,RESC1608X55N,40.9,127.9,90,Resistor - 1%
+R21,49R9,Top,RESC1608X55N,40.9,124.6,90,Resistor - 1%
+R16,49R9,Top,RESC1608X55N,49.1,92.1,270,Resistor - 1%
+R15,49R9,Top,RESC1608X55N,49.1,95.4,270,Resistor - 1%
+R14,49R9,Top,RESC1608X55N,30.9,127.9,90,Resistor - 1%
+R13,49R9,Top,RESC1608X55N,30.9,124.6,90,Resistor - 1%
+R12,49R9,Top,RESC1608X55N,49.1,102.1,270,Resistor - 1%
+R11,49R9,Top,RESC1608X55N,49.1,105.4,270,Resistor - 1%
+R10,49R9,Top,RESC1608X55N,30.9,117.9,90,Resistor - 1%
+R9,49R9,Top,RESC1608X55N,30.9,114.6,90,Resistor - 1%
+R8,49R9,Top,RESC1608X55N,59.1,92.1,270,Resistor - 1%
+R7,49R9,Top,RESC1608X55N,59.1,95.4,270,Resistor - 1%
+R6,49R9,Top,RESC1608X55N,20.9,127.9,90,Resistor - 1%
+R5,49R9,Top,RESC1608X55N,20.9,124.6,90,Resistor - 1%
+R4,49R9,Top,RESC1608X55N,59.1,102.1,270,Resistor - 1%
+R3,49R9,Top,RESC1608X55N,59.1,105.4,270,Resistor - 1%
+R2,49R9,Top,RESC1608X55N,20.9,117.9,90,Resistor - 1%
+R1,49R9,Top,RESC1608X55N,20.9,114.6,90,Resistor - 1%
+IC17,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,25,103,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC16,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,55,117.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC15,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,25,93,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC14,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,55,127.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC13,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,35,103,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC12,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,45,117.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC11,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,35,93,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC10,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,45,127.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC9,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,45,93,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC8,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,35,127.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC7,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,45,103,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC6,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,35,117.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC5,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,55,93,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC4,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,25,127.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC3,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,55,103,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC1,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,25,117.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+FTG4,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,65,85,90,Fiducial Target
+FTG1,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,15,135,90,Fiducial Target
+C68,100nF,Top,CAPC1608X90N,30.9,98.8,90,Non-polarised capacitor
+C67,100nF,Top,CAPC1608X90N,29.1,98.8,90,Non-polarised capacitor
+C66,100nF,Top,CAPC1608X90N,30.9,105.4,270,Non-polarised capacitor
+C65,100nF,Top,CAPC1608X90N,30.9,102.1,90,Non-polarised capacitor
+C64,100nF,Top,CAPC1608X90N,49.1,121.2,270,Non-polarised capacitor
+C63,100nF,Top,CAPC1608X90N,50.9,121.2,270,Non-polarised capacitor
+C62,100nF,Top,CAPC1608X90N,49.1,117.9,270,Non-polarised capacitor
+C61,100nF,Top,CAPC1608X90N,49.1,114.6,90,Non-polarised capacitor
+C60,100nF,Top,CAPC1608X90N,30.9,88.8,90,Non-polarised capacitor
+C59,100nF,Top,CAPC1608X90N,29.1,88.8,90,Non-polarised capacitor
+C58,100nF,Top,CAPC1608X90N,30.9,95.4,270,Non-polarised capacitor
+C57,100nF,Top,CAPC1608X90N,30.9,92.1,90,Non-polarised capacitor
+C56,100nF,Top,CAPC1608X90N,50.9,131.2,270,Non-polarised capacitor
+C55,100nF,Top,CAPC1608X90N,49.1,131.2,270,Non-polarised capacitor
+C50,100nF,Top,CAPC1608X90N,39.1,98.8,90,Non-polarised capacitor
+C49,100nF,Top,CAPC1608X90N,40.9,98.8,90,Non-polarised capacitor
+C48,100nF,Top,CAPC1608X90N,40.9,105.4,270,Non-polarised capacitor
+C47,100nF,Top,CAPC1608X90N,40.9,102.1,90,Non-polarised capacitor
+C46,100nF,Top,CAPC1608X90N,39.1,121.2,270,Non-polarised capacitor
+C45,100nF,Top,CAPC1608X90N,40.9,121.2,270,Non-polarised capacitor
+C44,100nF,Top,CAPC1608X90N,39.1,117.9,270,Non-polarised capacitor
+C43,100nF,Top,CAPC1608X90N,39.1,114.6,90,Non-polarised capacitor
+C42,100nF,Top,CAPC1608X90N,39.1,88.8,90,Non-polarised capacitor
+C41,100nF,Top,CAPC1608X90N,40.9,88.8,90,Non-polarised capacitor
+C40,100nF,Top,CAPC1608X90N,40.9,95.4,270,Non-polarised capacitor
+C39,100nF,Top,CAPC1608X90N,40.9,92.1,90,Non-polarised capacitor
+C38,100nF,Top,CAPC1608X90N,39.1,131.2,270,Non-polarised capacitor
+C37,100nF,Top,CAPC1608X90N,40.9,131.2,270,Non-polarised capacitor
+C36,100nF,Top,CAPC1608X90N,39.1,127.9,270,Non-polarised capacitor
+C35,100nF,Top,CAPC1608X90N,39.1,124.6,90,Non-polarised capacitor
+C32,100nF,Top,CAPC1608X90N,50.9,88.8,90,Non-polarised capacitor
+C31,100nF,Top,CAPC1608X90N,49.1,88.8,90,Non-polarised capacitor
+C30,100nF,Top,CAPC1608X90N,50.9,92.1,90,Non-polarised capacitor
+C29,100nF,Top,CAPC1608X90N,50.9,95.4,270,Non-polarised capacitor
+C28,100nF,Top,CAPC1608X90N,29.1,131.2,270,Non-polarised capacitor
+C27,100nF,Top,CAPC1608X90N,30.9,131.2,270,Non-polarised capacitor
+C26,100nF,Top,CAPC1608X90N,29.1,127.9,270,Non-polarised capacitor
+C25,100nF,Top,CAPC1608X90N,29.1,124.6,90,Non-polarised capacitor
+C24,100nF,Top,CAPC1608X90N,49.1,98.8,90,Non-polarised capacitor
+C23,100nF,Top,CAPC1608X90N,50.9,98.8,90,Non-polarised capacitor
+C22,100nF,Top,CAPC1608X90N,50.9,105.4,270,Non-polarised capacitor
+C21,100nF,Top,CAPC1608X90N,50.9,102.1,90,Non-polarised capacitor
+C20,100nF,Top,CAPC1608X90N,30.9,121.2,270,Non-polarised capacitor
+C19,100nF,Top,CAPC1608X90N,29.1,121.2,270,Non-polarised capacitor
+C18,100nF,Top,CAPC1608X90N,29.1,117.9,270,Non-polarised capacitor
+C17,100nF,Top,CAPC1608X90N,29.1,114.6,90,Non-polarised capacitor
+C16,100nF,Top,CAPC1608X90N,59.1,88.8,90,Non-polarised capacitor
+C15,100nF,Top,CAPC1608X90N,60.9,88.8,90,Non-polarised capacitor
+C14,100nF,Top,CAPC1608X90N,60.9,95.4,270,Non-polarised capacitor
+C13,100nF,Top,CAPC1608X90N,60.9,92.1,90,Non-polarised capacitor
+C12,100nF,Top,CAPC1608X90N,19.1,131.2,270,Non-polarised capacitor
+C11,100nF,Top,CAPC1608X90N,20.9,131.2,270,Non-polarised capacitor
+C10,100nF,Top,CAPC1608X90N,19.1,127.9,270,Non-polarised capacitor
+C9,100nF,Top,CAPC1608X90N,19.1,124.6,90,Non-polarised capacitor
+C8,100nF,Top,CAPC1608X90N,59.1,98.8,90,Non-polarised capacitor
+C7,100nF,Top,CAPC1608X90N,60.9,98.8,90,Non-polarised capacitor
+C6,100nF,Top,CAPC1608X90N,60.9,102.1,90,Non-polarised capacitor
+C5,100nF,Top,CAPC1608X90N,60.9,105.4,270,Non-polarised capacitor
+C4,100nF,Top,CAPC1608X90N,19.1,121.2,270,Non-polarised capacitor
+C3,100nF,Top,CAPC1608X90N,20.9,121.2,270,Non-polarised capacitor
+C2,100nF,Top,CAPC1608X90N,19.1,117.9,270,Non-polarised capacitor
+C1,100nF,Top,CAPC1608X90N,19.1,114.6,90,Non-polarised capacitor
+FTG5,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,85,15,90,Fiducial Target
+C54,100nF,Top,CAPC1608X90N,119.1,54.6,90,Non-polarised capacitor
+C53,100nF,Top,CAPC1608X90N,119.1,57.9,270,Non-polarised capacitor
+H4,Plated Hole,Top,MTG240_400,137.5,12.5,0,Single Terminal Socket
+H3,Plated Hole,Top,MTG240_400,82.5,12.5,0,Single Terminal Socket
+H2,Plated Hole,Top,MTG240_400,82.5,67.5,0,Single Terminal Socket
+H1,Plated Hole,Top,MTG240_400,137.5,67.5,0,Single Terminal Socket
+R36,49R9,Top,RESC1608X55N,99.1,32.1,270,Resistor - 1%
+R35,49R9,Top,RESC1608X55N,99.1,35.4,270,Resistor - 1%
+R34,49R9,Top,RESC1608X55N,120.9,47.9,90,Resistor - 1%
+R33,49R9,Top,RESC1608X55N,120.9,44.6,90,Resistor - 1%
+R32,49R9,Top,RESC1608X55N,99.1,22.1,270,Resistor - 1%
+R31,49R9,Top,RESC1608X55N,99.1,25.4,270,Resistor - 1%
+R30,49R9,Top,RESC1608X55N,120.9,57.9,90,Resistor - 1%
+R29,49R9,Top,RESC1608X55N,120.9,54.6,90,Resistor - 1%
+R28,49R9,Top,RESC1608X55N,109.1,32.1,270,Resistor - 1%
+R27,49R9,Top,RESC1608X55N,109.1,35.4,270,Resistor - 1%
+R26,49R9,Top,RESC1608X55N,110.9,47.9,90,Resistor - 1%
+R25,49R9,Top,RESC1608X55N,110.9,44.6,90,Resistor - 1%
+R24,49R9,Top,RESC1608X55N,109.1,22.1,270,Resistor - 1%
+R23,49R9,Top,RESC1608X55N,109.1,25.4,270,Resistor - 1%
+R22,49R9,Top,RESC1608X55N,110.9,57.9,90,Resistor - 1%
+R21,49R9,Top,RESC1608X55N,110.9,54.6,90,Resistor - 1%
+R16,49R9,Top,RESC1608X55N,119.1,22.1,270,Resistor - 1%
+R15,49R9,Top,RESC1608X55N,119.1,25.4,270,Resistor - 1%
+R14,49R9,Top,RESC1608X55N,100.9,57.9,90,Resistor - 1%
+R13,49R9,Top,RESC1608X55N,100.9,54.6,90,Resistor - 1%
+R12,49R9,Top,RESC1608X55N,119.1,32.1,270,Resistor - 1%
+R11,49R9,Top,RESC1608X55N,119.1,35.4,270,Resistor - 1%
+R10,49R9,Top,RESC1608X55N,100.9,47.9,90,Resistor - 1%
+R9,49R9,Top,RESC1608X55N,100.9,44.6,90,Resistor - 1%
+R8,49R9,Top,RESC1608X55N,129.1,22.1,270,Resistor - 1%
+R7,49R9,Top,RESC1608X55N,129.1,25.4,270,Resistor - 1%
+R6,49R9,Top,RESC1608X55N,90.9,57.9,90,Resistor - 1%
+R5,49R9,Top,RESC1608X55N,90.9,54.6,90,Resistor - 1%
+R4,49R9,Top,RESC1608X55N,129.1,32.1,270,Resistor - 1%
+R3,49R9,Top,RESC1608X55N,129.1,35.4,270,Resistor - 1%
+R2,49R9,Top,RESC1608X55N,90.9,47.9,90,Resistor - 1%
+R1,49R9,Top,RESC1608X55N,90.9,44.6,90,Resistor - 1%
+IC17,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,95,33,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC16,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,125,47.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC15,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,95,22.9999,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC14,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,125,57.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC13,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,105,33,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC12,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,115,47.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC11,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,105,22.9999,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC10,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,115,57.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC9,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,115,22.9999,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC8,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,105,57.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC7,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,115,33,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC6,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,105,47.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC5,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,125,22.9999,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC4,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,95,57.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC3,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,125,33,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC1,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,95,47.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+FTG4,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,135,15,90,Fiducial Target
+FTG1,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,85,65,90,Fiducial Target
+C68,100nF,Top,CAPC1608X90N,100.9,28.8,90,Non-polarised capacitor
+C67,100nF,Top,CAPC1608X90N,99.1,28.8,90,Non-polarised capacitor
+C66,100nF,Top,CAPC1608X90N,100.9,35.4,270,Non-polarised capacitor
+C65,100nF,Top,CAPC1608X90N,100.9,32.1,90,Non-polarised capacitor
+C64,100nF,Top,CAPC1608X90N,119.1,51.2,270,Non-polarised capacitor
+C63,100nF,Top,CAPC1608X90N,120.9,51.2,270,Non-polarised capacitor
+C62,100nF,Top,CAPC1608X90N,119.1,47.9,270,Non-polarised capacitor
+C61,100nF,Top,CAPC1608X90N,119.1,44.6,90,Non-polarised capacitor
+C60,100nF,Top,CAPC1608X90N,100.9,18.8,90,Non-polarised capacitor
+C59,100nF,Top,CAPC1608X90N,99.1,18.8,90,Non-polarised capacitor
+C58,100nF,Top,CAPC1608X90N,100.9,25.4,270,Non-polarised capacitor
+C57,100nF,Top,CAPC1608X90N,100.9,22.1,90,Non-polarised capacitor
+C56,100nF,Top,CAPC1608X90N,120.9,61.2,270,Non-polarised capacitor
+C55,100nF,Top,CAPC1608X90N,119.1,61.2,270,Non-polarised capacitor
+C50,100nF,Top,CAPC1608X90N,109.1,28.8,90,Non-polarised capacitor
+C49,100nF,Top,CAPC1608X90N,110.9,28.8,90,Non-polarised capacitor
+C48,100nF,Top,CAPC1608X90N,110.9,35.4,270,Non-polarised capacitor
+C47,100nF,Top,CAPC1608X90N,110.9,32.1,90,Non-polarised capacitor
+C46,100nF,Top,CAPC1608X90N,109.1,51.2,270,Non-polarised capacitor
+C45,100nF,Top,CAPC1608X90N,110.9,51.2,270,Non-polarised capacitor
+C44,100nF,Top,CAPC1608X90N,109.1,47.9,270,Non-polarised capacitor
+C43,100nF,Top,CAPC1608X90N,109.1,44.6,90,Non-polarised capacitor
+C42,100nF,Top,CAPC1608X90N,109.1,18.8,90,Non-polarised capacitor
+C41,100nF,Top,CAPC1608X90N,110.9,18.8,90,Non-polarised capacitor
+C40,100nF,Top,CAPC1608X90N,110.9,25.4,270,Non-polarised capacitor
+C39,100nF,Top,CAPC1608X90N,110.9,22.1,90,Non-polarised capacitor
+C38,100nF,Top,CAPC1608X90N,109.1,61.2,270,Non-polarised capacitor
+C37,100nF,Top,CAPC1608X90N,110.9,61.2,270,Non-polarised capacitor
+C36,100nF,Top,CAPC1608X90N,109.1,57.9,270,Non-polarised capacitor
+C35,100nF,Top,CAPC1608X90N,109.1,54.6,90,Non-polarised capacitor
+C32,100nF,Top,CAPC1608X90N,120.9,18.8,90,Non-polarised capacitor
+C31,100nF,Top,CAPC1608X90N,119.1,18.8,90,Non-polarised capacitor
+C30,100nF,Top,CAPC1608X90N,120.9,22.1,90,Non-polarised capacitor
+C29,100nF,Top,CAPC1608X90N,120.9,25.4,270,Non-polarised capacitor
+C28,100nF,Top,CAPC1608X90N,99.1,61.2,270,Non-polarised capacitor
+C27,100nF,Top,CAPC1608X90N,100.9,61.2,270,Non-polarised capacitor
+C26,100nF,Top,CAPC1608X90N,99.1,57.9,270,Non-polarised capacitor
+C25,100nF,Top,CAPC1608X90N,99.1,54.6,90,Non-polarised capacitor
+C24,100nF,Top,CAPC1608X90N,119.1,28.8,90,Non-polarised capacitor
+C23,100nF,Top,CAPC1608X90N,120.9,28.8,90,Non-polarised capacitor
+C22,100nF,Top,CAPC1608X90N,120.9,35.4,270,Non-polarised capacitor
+C21,100nF,Top,CAPC1608X90N,120.9,32.1,90,Non-polarised capacitor
+C20,100nF,Top,CAPC1608X90N,100.9,51.2,270,Non-polarised capacitor
+C19,100nF,Top,CAPC1608X90N,99.1,51.2,270,Non-polarised capacitor
+C18,100nF,Top,CAPC1608X90N,99.1,47.9,270,Non-polarised capacitor
+C17,100nF,Top,CAPC1608X90N,99.1,44.6,90,Non-polarised capacitor
+C16,100nF,Top,CAPC1608X90N,129.1,18.8,90,Non-polarised capacitor
+C15,100nF,Top,CAPC1608X90N,130.9,18.8,90,Non-polarised capacitor
+C14,100nF,Top,CAPC1608X90N,130.9,25.4,270,Non-polarised capacitor
+C13,100nF,Top,CAPC1608X90N,130.9,22.1,90,Non-polarised capacitor
+C12,100nF,Top,CAPC1608X90N,89.1,61.2,270,Non-polarised capacitor
+C11,100nF,Top,CAPC1608X90N,90.9,61.2,270,Non-polarised capacitor
+C10,100nF,Top,CAPC1608X90N,89.1,57.9,270,Non-polarised capacitor
+C9,100nF,Top,CAPC1608X90N,89.1,54.6,90,Non-polarised capacitor
+C8,100nF,Top,CAPC1608X90N,129.1,28.8,90,Non-polarised capacitor
+C7,100nF,Top,CAPC1608X90N,130.9,28.8,90,Non-polarised capacitor
+C6,100nF,Top,CAPC1608X90N,130.9,32.1,90,Non-polarised capacitor
+C5,100nF,Top,CAPC1608X90N,130.9,35.4,270,Non-polarised capacitor
+C4,100nF,Top,CAPC1608X90N,89.1,51.2,270,Non-polarised capacitor
+C3,100nF,Top,CAPC1608X90N,90.9,51.2,270,Non-polarised capacitor
+C2,100nF,Top,CAPC1608X90N,89.1,47.9,270,Non-polarised capacitor
+C1,100nF,Top,CAPC1608X90N,89.1,44.6,90,Non-polarised capacitor
+FTG5,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,85,85,90,Fiducial Target
+C54,100nF,Top,CAPC1608X90N,119.1,124.6,90,Non-polarised capacitor
+C53,100nF,Top,CAPC1608X90N,119.1,127.9,270,Non-polarised capacitor
+H4,Plated Hole,Top,MTG240_400,137.5,82.5,0,Single Terminal Socket
+H3,Plated Hole,Top,MTG240_400,82.5,82.5,0,Single Terminal Socket
+H2,Plated Hole,Top,MTG240_400,82.5,137.5,0,Single Terminal Socket
+H1,Plated Hole,Top,MTG240_400,137.5,137.5,0,Single Terminal Socket
+R36,49R9,Top,RESC1608X55N,99.1,102.1,270,Resistor - 1%
+R35,49R9,Top,RESC1608X55N,99.1,105.4,270,Resistor - 1%
+R34,49R9,Top,RESC1608X55N,120.9,117.9,90,Resistor - 1%
+R33,49R9,Top,RESC1608X55N,120.9,114.6,90,Resistor - 1%
+R32,49R9,Top,RESC1608X55N,99.1,92.1,270,Resistor - 1%
+R31,49R9,Top,RESC1608X55N,99.1,95.4,270,Resistor - 1%
+R30,49R9,Top,RESC1608X55N,120.9,127.9,90,Resistor - 1%
+R29,49R9,Top,RESC1608X55N,120.9,124.6,90,Resistor - 1%
+R28,49R9,Top,RESC1608X55N,109.1,102.1,270,Resistor - 1%
+R27,49R9,Top,RESC1608X55N,109.1,105.4,270,Resistor - 1%
+R26,49R9,Top,RESC1608X55N,110.9,117.9,90,Resistor - 1%
+R25,49R9,Top,RESC1608X55N,110.9,114.6,90,Resistor - 1%
+R24,49R9,Top,RESC1608X55N,109.1,92.1,270,Resistor - 1%
+R23,49R9,Top,RESC1608X55N,109.1,95.4,270,Resistor - 1%
+R22,49R9,Top,RESC1608X55N,110.9,127.9,90,Resistor - 1%
+R21,49R9,Top,RESC1608X55N,110.9,124.6,90,Resistor - 1%
+R16,49R9,Top,RESC1608X55N,119.1,92.1,270,Resistor - 1%
+R15,49R9,Top,RESC1608X55N,119.1,95.4,270,Resistor - 1%
+R14,49R9,Top,RESC1608X55N,100.9,127.9,90,Resistor - 1%
+R13,49R9,Top,RESC1608X55N,100.9,124.6,90,Resistor - 1%
+R12,49R9,Top,RESC1608X55N,119.1,102.1,270,Resistor - 1%
+R11,49R9,Top,RESC1608X55N,119.1,105.4,270,Resistor - 1%
+R10,49R9,Top,RESC1608X55N,100.9,117.9,90,Resistor - 1%
+R9,49R9,Top,RESC1608X55N,100.9,114.6,90,Resistor - 1%
+R8,49R9,Top,RESC1608X55N,129.1,92.1,270,Resistor - 1%
+R7,49R9,Top,RESC1608X55N,129.1,95.4,270,Resistor - 1%
+R6,49R9,Top,RESC1608X55N,90.9,127.9,90,Resistor - 1%
+R5,49R9,Top,RESC1608X55N,90.9,124.6,90,Resistor - 1%
+R4,49R9,Top,RESC1608X55N,129.1,102.1,270,Resistor - 1%
+R3,49R9,Top,RESC1608X55N,129.1,105.4,270,Resistor - 1%
+R2,49R9,Top,RESC1608X55N,90.9,117.9,90,Resistor - 1%
+R1,49R9,Top,RESC1608X55N,90.9,114.6,90,Resistor - 1%
+IC17,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,95,103,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC16,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,125,117.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC15,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,95,93,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC14,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,125,127.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC13,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,105,103,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC12,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,115,117.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC11,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,105,93,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC10,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,115,127.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC9,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,115,93,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC8,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,105,127.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC7,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,115,103,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC6,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,105,117.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC5,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,125,93,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC4,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,95,127.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+IC3,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,125,103,270,Single Element MPPC (Multi-Pixel Photon Counter)
+IC1,S13360-3050CS,Top,HAMAMATSU_S13360-3050CS,95,117.0001,90,Single Element MPPC (Multi-Pixel Photon Counter)
+FTG4,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,135,85,90,Fiducial Target
+FTG1,Use only in PCB,Top,FIDUCIAL_TOP_C100-200,85,135,90,Fiducial Target
+C68,100nF,Top,CAPC1608X90N,100.9,98.8,90,Non-polarised capacitor
+C67,100nF,Top,CAPC1608X90N,99.1,98.8,90,Non-polarised capacitor
+C66,100nF,Top,CAPC1608X90N,100.9,105.4,270,Non-polarised capacitor
+C65,100nF,Top,CAPC1608X90N,100.9,102.1,90,Non-polarised capacitor
+C64,100nF,Top,CAPC1608X90N,119.1,121.2,270,Non-polarised capacitor
+C63,100nF,Top,CAPC1608X90N,120.9,121.2,270,Non-polarised capacitor
+C62,100nF,Top,CAPC1608X90N,119.1,117.9,270,Non-polarised capacitor
+C61,100nF,Top,CAPC1608X90N,119.1,114.6,90,Non-polarised capacitor
+C60,100nF,Top,CAPC1608X90N,100.9,88.8,90,Non-polarised capacitor
+C59,100nF,Top,CAPC1608X90N,99.1,88.8,90,Non-polarised capacitor
+C58,100nF,Top,CAPC1608X90N,100.9,95.4,270,Non-polarised capacitor
+C57,100nF,Top,CAPC1608X90N,100.9,92.1,90,Non-polarised capacitor
+C56,100nF,Top,CAPC1608X90N,120.9,131.2,270,Non-polarised capacitor
+C55,100nF,Top,CAPC1608X90N,119.1,131.2,270,Non-polarised capacitor
+C50,100nF,Top,CAPC1608X90N,109.1,98.8,90,Non-polarised capacitor
+C49,100nF,Top,CAPC1608X90N,110.9,98.8,90,Non-polarised capacitor
+C48,100nF,Top,CAPC1608X90N,110.9,105.4,270,Non-polarised capacitor
+C47,100nF,Top,CAPC1608X90N,110.9,102.1,90,Non-polarised capacitor
+C46,100nF,Top,CAPC1608X90N,109.1,121.2,270,Non-polarised capacitor
+C45,100nF,Top,CAPC1608X90N,110.9,121.2,270,Non-polarised capacitor
+C44,100nF,Top,CAPC1608X90N,109.1,117.9,270,Non-polarised capacitor
+C43,100nF,Top,CAPC1608X90N,109.1,114.6,90,Non-polarised capacitor
+C42,100nF,Top,CAPC1608X90N,109.1,88.8,90,Non-polarised capacitor
+C41,100nF,Top,CAPC1608X90N,110.9,88.8,90,Non-polarised capacitor
+C40,100nF,Top,CAPC1608X90N,110.9,95.4,270,Non-polarised capacitor
+C39,100nF,Top,CAPC1608X90N,110.9,92.1,90,Non-polarised capacitor
+C38,100nF,Top,CAPC1608X90N,109.1,131.2,270,Non-polarised capacitor
+C37,100nF,Top,CAPC1608X90N,110.9,131.2,270,Non-polarised capacitor
+C36,100nF,Top,CAPC1608X90N,109.1,127.9,270,Non-polarised capacitor
+C35,100nF,Top,CAPC1608X90N,109.1,124.6,90,Non-polarised capacitor
+C32,100nF,Top,CAPC1608X90N,120.9,88.8,90,Non-polarised capacitor
+C31,100nF,Top,CAPC1608X90N,119.1,88.8,90,Non-polarised capacitor
+C30,100nF,Top,CAPC1608X90N,120.9,92.1,90,Non-polarised capacitor
+C29,100nF,Top,CAPC1608X90N,120.9,95.4,270,Non-polarised capacitor
+C28,100nF,Top,CAPC1608X90N,99.1,131.2,270,Non-polarised capacitor
+C27,100nF,Top,CAPC1608X90N,100.9,131.2,270,Non-polarised capacitor
+C26,100nF,Top,CAPC1608X90N,99.1,127.9,270,Non-polarised capacitor
+C25,100nF,Top,CAPC1608X90N,99.1,124.6,90,Non-polarised capacitor
+C24,100nF,Top,CAPC1608X90N,119.1,98.8,90,Non-polarised capacitor
+C23,100nF,Top,CAPC1608X90N,120.9,98.8,90,Non-polarised capacitor
+C22,100nF,Top,CAPC1608X90N,120.9,105.4,270,Non-polarised capacitor
+C21,100nF,Top,CAPC1608X90N,120.9,102.1,90,Non-polarised capacitor
+C20,100nF,Top,CAPC1608X90N,100.9,121.2,270,Non-polarised capacitor
+C19,100nF,Top,CAPC1608X90N,99.1,121.2,270,Non-polarised capacitor
+C18,100nF,Top,CAPC1608X90N,99.1,117.9,270,Non-polarised capacitor
+C17,100nF,Top,CAPC1608X90N,99.1,114.6,90,Non-polarised capacitor
+C16,100nF,Top,CAPC1608X90N,129.1,88.8,90,Non-polarised capacitor
+C15,100nF,Top,CAPC1608X90N,130.9,88.8,90,Non-polarised capacitor
+C14,100nF,Top,CAPC1608X90N,130.9,95.4,270,Non-polarised capacitor
+C13,100nF,Top,CAPC1608X90N,130.9,92.1,90,Non-polarised capacitor
+C12,100nF,Top,CAPC1608X90N,89.1,131.2,270,Non-polarised capacitor
+C11,100nF,Top,CAPC1608X90N,90.9,131.2,270,Non-polarised capacitor
+C10,100nF,Top,CAPC1608X90N,89.1,127.9,270,Non-polarised capacitor
+C9,100nF,Top,CAPC1608X90N,89.1,124.6,90,Non-polarised capacitor
+C8,100nF,Top,CAPC1608X90N,129.1,98.8,90,Non-polarised capacitor
+C7,100nF,Top,CAPC1608X90N,130.9,98.8,90,Non-polarised capacitor
+C6,100nF,Top,CAPC1608X90N,130.9,102.1,90,Non-polarised capacitor
+C5,100nF,Top,CAPC1608X90N,130.9,105.4,270,Non-polarised capacitor
+C4,100nF,Top,CAPC1608X90N,89.1,121.2,270,Non-polarised capacitor
+C3,100nF,Top,CAPC1608X90N,90.9,121.2,270,Non-polarised capacitor
+C2,100nF,Top,CAPC1608X90N,89.1,117.9,270,Non-polarised capacitor
+C1,100nF,Top,CAPC1608X90N,89.1,114.6,90,Non-polarised capacitor

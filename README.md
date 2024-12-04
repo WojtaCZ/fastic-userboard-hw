@@ -24,8 +24,9 @@ The pins *INx_FASTICy* are input pins routed to the FastIC+ input channels. The 
 </div>
 
 ## Specifications
-The following table summarises the electrical specifications of the readout and userboard. These specifications need to be met in order to guarantee propper functionality.
+The following tables summarise the electrical specifications of the readout and userboard. These specifications need to be met in order to guarantee proper functionality.
 
+The table bellow summarizes the currents and voltages that the readout can supply. 
 <div align="center">
 
 |                                        |   Min   |   Typ   |   Max   |   Unit   |
@@ -34,6 +35,13 @@ The following table summarises the electrical specifications of the readout and 
 | 3.3V current                           |         |         |  50     | mA       |
 | HV voltage                             |         |         |  75     | V        |
 | HV current                             |         |         |  5      | mA       |
+
+</div>
+The following table than shows the parameters of the userboard.
+<div align="center">
+
+|                                        |   Min   |   Typ   |   Max   |   Unit   |
+| -------------------------------------- | :-----: | :-----: | :-----: | :------: | 
 | Pull resistor value                    | 10      |         |  100    | kOhm     |
 | INx_FASTICy propagation delay[^1][^2]  | 200     | 230     |  260    | ps       |
 

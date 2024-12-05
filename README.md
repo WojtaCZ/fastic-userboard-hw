@@ -8,7 +8,7 @@ This repository contains the project files and manufacturing outputs for the Fas
 </div>
 
 ## Output files
-Schematic, BOM and 3D renders are available in the outputs folder aswell as the gerbers and pick and place files needed for assembly. Gerbers and P&P files for both a single board and a 2x2 panel are provided.
+Schematic, BOM and 3D renders are available in the outputs folder as well as the gerbers and pick and place files needed for assembly. Gerbers and P&P files for both a single board and a 2x2 panel are provided.
 
 ## Interface connector
 The [ERF8-020-09.0-L-DV-K-TR](https://www.samtec.com/products/erf8-020-09.0-l-dv-k-tr) is used for interfacing with the readout system. The readout system provides a 3.3 V supply to the userboard on pins *40* and *39*. Decoupling capacitors should be added on these pins.
@@ -35,6 +35,10 @@ The table bellow summarizes the currents and voltages that the readout can suppl
 | 3.3V current                           |         |         |  50     | mA       |
 | HV voltage                             |         |         |  75     | V        |
 | HV current                             |         |         |  5      | mA       |
+| INx_FASTICy propagation delay[^1]      | 200     | 230     |  260    | ps       |
+
+[^1]:
+    The delay specified is the sum of the readout PCB propagation delay (120 ps) and the connector stack (mated connectors) propagation delay (110ps). The propagation delay of the FastIC+ package and the userboard PCB propagation delay is not taken into account. 
 
 </div>
 The following table than shows the parameters of the userboard.
@@ -43,12 +47,11 @@ The following table than shows the parameters of the userboard.
 |                                        |   Min   |   Typ   |   Max   |   Unit   |
 | -------------------------------------- | :-----: | :-----: | :-----: | :------: | 
 | Pull resistor value                    | 10      |         |  100    | kOhm     |
-| INx_FASTICy propagation delay[^1][^2]  | 200     | 230     |  260    | ps       |
+| Channel propagation delay[^2]          | 110     | 140     |  170    | ps       |
 
-[^1]:
-    The delay specified is the sum of the readout PCB propagation delay (120 ps) and the connector stack (mated connectors) propagation delay (110ps). The propagation delay of the FastIC+ package and the userboard PCB propagation delay is not taken into account. 
+
 [^2]:
-    The channels in the provided userboard example are length matched to (142 ps) this the total propagation delay from the sensor to the FastIC+ package pin is the sum of the userboard delay (142 ps) and the propagation delay (230 ps), thus *t<sub>pd</sub> = 372 ± 30 ps*. The propagation delay of the FastIC+ package and the sensor propagation delay is not taken into account.
+    The channels in the provided user board example are length matched to (~ 140 ps), thus the total propagation delay from the sensor to the FastIC+ package pin is the sum of the user board delay (140 ps) and the propagation delay (230 ps), *t<sub>pd</sub> = 370 ± 30 ps*. The propagation delay of the FastIC+ package and the sensor propagation delay is not taken into account.
 
 </div>
 
